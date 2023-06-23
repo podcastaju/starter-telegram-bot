@@ -1,0 +1,10 @@
+telegram
+python-telegram-bot==13.7
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+git+https://github.com/ytdl-org/youtube-dl.git
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
